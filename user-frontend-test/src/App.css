@@ -1,0 +1,13 @@
+.text-container{
+  /* 上下方向に中央ぞろえ */
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.cat-container {
+  text-align: center;
+}
+#cat {
+  width: 50%;
+}
